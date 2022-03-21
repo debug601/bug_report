@@ -1,4 +1,6 @@
-Attendance and Payroll System v1.0 - SQL injection
+# Attendance and Payroll System v1.0 - SQL injection
+
+username:nurhodelta password:password ----> {ip}apsystem/admin/index.php
 
 Supplier： https://www.sourcecodester.com/php/12268/attendance-and-payroll-system-using-php.html
 
