@@ -1,0 +1,1 @@
+1. [oretnom23](https://github.com/k0xx11/bug_report/tree/main/vendors/oretnom23)
