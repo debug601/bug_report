@@ -1,5 +1,7 @@
 ## Arbitrary file reading vulnerability exists in background module management in KiteCMS-V1.1.1
 
+vendor: https://github.com/Kitesky/KiteCMS
+
 Vulnerability Position：ip/index.php/admin/template/filelist.html
 
 Log in to the backend：
