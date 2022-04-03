@@ -1,5 +1,7 @@
 ## There is an information disclosure vulnerability in the path parameters in the background module management of KiteCMS-V1.1.1.
 
+vendor: https://github.com/Kitesky/KiteCMS
+
 Vulnerability Position：ip/index.php/admin/template/filelist.html
 
 Log in to the backend：
