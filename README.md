@@ -42,4 +42,8 @@
 - CVE-2022-28438 ---> SQLi
 - CVE-2022-28439 ---> SQLi
 
-
+**home owners collection management system**
+- CVE-2022-28414 ---> SQLi
+- CVE-2022-28415 ---> SQLi
+- CVE-2022-28416 ---> SQLi
+- CVE-2022-28417 ---> SQLi
