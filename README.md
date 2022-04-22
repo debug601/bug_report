@@ -47,3 +47,9 @@
 - CVE-2022-28415 ---> SQLi
 - CVE-2022-28416 ---> SQLi
 - CVE-2022-28417 ---> SQLi
+
+**student grading system**
+- CVE-2022-28024 ---> SQLi
+- CVE-2022-28025 ---> SQLi
+- CVE-2022-28026 ---> SQLi
+
