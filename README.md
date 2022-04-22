@@ -63,3 +63,11 @@
 **car driving school management system**
 - CVE-2022-28412 ---> SQLi
 - CVE-2022-28413 ---> SQLi
+
+**ucms1.6**
+- CVE-2022-28440
+- CVE-2022-28443
+- CVE-2022-28444
+
+**kitecmsv1.1.1**
+- CVE-2022-28445
