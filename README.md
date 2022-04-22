@@ -59,3 +59,7 @@
 - CVE-2022-28030 ---> SQLi
 - CVE-2022-28410 ---> SQLi
 - CVE-2022-28411 ---> SQLi
+
+**car driving school management system**
+- CVE-2022-28412 ---> SQLi
+- CVE-2022-28413 ---> SQLi
