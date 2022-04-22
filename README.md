@@ -53,3 +53,9 @@
 - CVE-2022-28025 ---> SQLi
 - CVE-2022-28026 ---> SQLi
 
+**simple real estate portal system**
+- CVE-2022-28028 ---> SQLi
+- CVE-2022-28029 ---> SQLi
+- CVE-2022-28030 ---> SQLi
+- CVE-2022-28410 ---> SQLi
+- CVE-2022-28411 ---> SQLi
