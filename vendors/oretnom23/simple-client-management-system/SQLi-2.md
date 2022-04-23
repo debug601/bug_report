@@ -1,4 +1,4 @@
-# Simple-Client-mMnagement-System v1.0 by oretnom23 has SQL injection
+# Simple-Client-Mnagement-System v1.0 by oretnom23 has SQL injection
 
 vendors: https://www.sourcecodester.com/php/15027/simple-client-management-system-php-source-code.html
 
