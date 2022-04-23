@@ -27,6 +27,12 @@ Connection: close
 
 
 When length (database ()) = 6, Content-Length: 2397
+![image](https://user-images.githubusercontent.com/54017627/164883725-3ea83b5f-b44b-45d9-812a-4436a3b7c2df.png)
+
+![image](https://user-images.githubusercontent.com/54017627/164883744-b67f56e9-0f9c-4642-af05-3721647892ec.png)
 
 
-When length (database ()) = 7, Content-Length: 168
+When length (database ()) = 7, Content-Length: 2355
+![image](https://user-images.githubusercontent.com/54017627/164883735-85f30c79-c2e9-41cc-b8aa-c600071cf083.png)
+
+![image](https://user-images.githubusercontent.com/54017627/164883749-30538708-b0ef-45ec-abd0-eae31bb9b68e.png)
