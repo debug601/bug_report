@@ -85,6 +85,9 @@ UPDATE
 
 The files will be uploaded to this directory \insurance\uploads\
 
+![image](https://user-images.githubusercontent.com/54017627/166144182-596c7e4f-9347-4219-9b6f-15730b562968.png)
+
 
 We visited the directory of the file in the browser and found that the code had been executed
 
+![image](https://user-images.githubusercontent.com/54017627/166144158-92de3642-3dcb-4f12-afb3-4cf8c236ce21.png)
