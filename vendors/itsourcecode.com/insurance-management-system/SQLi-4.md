@@ -4,6 +4,8 @@ Author： k0xx
 
 vendors: https://itsourcecode.com/free-projects/php-project/insurance-management-system-project-in-php-free-download/
 
+Login account: ahmed/12345 (Super Admin account)
+
 Vulnerability File: /insurance/editPayment.php?recipt_no=
 
 Vulnerability location: /insurance/editPayment.php?recipt_no=,recipt_no
