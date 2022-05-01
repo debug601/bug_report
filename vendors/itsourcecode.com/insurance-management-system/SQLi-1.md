@@ -2,6 +2,8 @@
 
 Author： k0xx
 
+Login account: ahmed/12345 (Super Admin account)
+
 vendors: https://itsourcecode.com/free-projects/php-project/insurance-management-system-project-in-php-free-download/
 
 Vulnerability File: /insurance/clientStatus.php?client_id=
