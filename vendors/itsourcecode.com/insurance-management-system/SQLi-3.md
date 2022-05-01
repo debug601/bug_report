@@ -4,6 +4,8 @@ Author： k0xx
 
 vendors: https://itsourcecode.com/free-projects/php-project/insurance-management-system-project-in-php-free-download/
 
+Login account: ahmed/12345 (Super Admin account)
+
 Vulnerability File: /insurance/editAgent.php?agent_id=
 
 Vulnerability location: /insurance/editAgent.php?agent_id=,agent_id
