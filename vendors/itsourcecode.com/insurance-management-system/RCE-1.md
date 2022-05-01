@@ -1,5 +1,7 @@
 # Insurance Management System v1.0 by oretnom23 has arbitrary code execution (RCE)
 
+Login account: ahmed/12345 (Super Admin account)
+
 vendor: https://itsourcecode.com/free-projects/php-project/insurance-management-system-project-in-php-free-download/
 
 Vulnerability url: http://ip/insurance/editClient.php?client_id=1511986129;http://ip/insurance/updateClient.php
