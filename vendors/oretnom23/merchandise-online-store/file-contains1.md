@@ -14,6 +14,6 @@ We create a shell.php under the PHP file of the root of the website, which reads
 
 ![image](https://user-images.githubusercontent.com/54017627/166878725-ca72883d-4400-414d-baf9-421238f3b873.png)
 
-And visit http://ip/acms/?p=shell You can see that phpinfo has been successfully included
+And visit http://ip/vloggers_merch/?p=shell You can see that phpinfo has been successfully included
 
 ![image](https://user-images.githubusercontent.com/54017627/166878691-cdc9a38f-a23c-43f8-9b94-83a64f66ed6e.png)
