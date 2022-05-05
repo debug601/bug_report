@@ -2,6 +2,8 @@
 
 vendors: https://code-projects.org/college-management-system-in-php-with-source-code/
 
+The password for the backend login account is: admin@gmail.com/admin123*
+
 Vulnerability File: /College_Management_System/admin/display-teacher.php?teacher_id=
 
 Vulnerability location: /College_Management_System/admin/display-teacher.php?teacher_id=, id
