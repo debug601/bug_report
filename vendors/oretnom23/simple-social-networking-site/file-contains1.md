@@ -4,7 +4,7 @@ vendor : https://www.sourcecodester.com/php/15311/simple-social-networking-site-
 
 Vulnerability File: ip/sns/admin/?page=
 
-Vulnerability location: ip/sns/admin/?page=, p
+Vulnerability location: ip/sns/admin/?page=, page
 
 Payload: ip/sns/admin/?page=shell
 
