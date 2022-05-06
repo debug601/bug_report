@@ -1,5 +1,7 @@
 # Gym Management System v1.0 by oretnom23 has The local file contains
 
+The password for the backend login account is: admin/admin123
+
 vendor : https://www.sourcecodester.com/php/14541/gym-management-system-using-phpmysqli-source-code.html
 
 Vulnerability File: ip/gym-management-system/index.php?page=
