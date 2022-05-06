@@ -15,6 +15,6 @@ We create a shell.php under the PHP file of the root of the website, which reads
 
 ![image](https://user-images.githubusercontent.com/54017627/167055202-9a09bcdc-0dbb-407f-bd09-9b5b4fb3d361.png)
 
-And visit http://sns/admin/?page=shell You can see that phpinfo has been successfully included
+And visit http://ip/gym-management-system/index.php?page=shell You can see that phpinfo has been successfully included
 
 ![image](https://user-images.githubusercontent.com/54017627/167055186-dba329b1-4698-4459-a0a5-072d1b48944c.png)
