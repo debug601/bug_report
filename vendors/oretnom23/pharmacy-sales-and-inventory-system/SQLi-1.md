@@ -1,4 +1,4 @@
-# Merchandise Online Store v1.0 by oretnom23 has SQL injection
+# Pharmacy Sales And Inventory System v1.0 by oretnom23 has SQL injection
 
 vendors: https://www.sourcecodester.com/php/14500/pharmacy-sales-and-inventory-system-using-phpmysql-source-code.html
 
