@@ -4,7 +4,7 @@ vendor : https://www.sourcecodester.com/php/14887/merchandise-online-store-php-f
 
 Vulnerability File: ip/vloggers_merch/admin/?page=
 
-Vulnerability location: ip/vloggers_merch/admin/?page=, p
+Vulnerability location: ip/vloggers_merch/admin/?page=, page
 
 Payload: ip/vloggers_merch/admin/?page=shell
 
