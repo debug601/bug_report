@@ -1,4 +1,4 @@
-# Simple Social Networking Site v1.0 by oretnom23 has The local file contains
+# Gym Management System v1.0 by oretnom23 has The local file contains
 
 vendor : https://www.sourcecodester.com/php/14541/gym-management-system-using-phpmysqli-source-code.html
 
