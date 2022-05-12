@@ -2,7 +2,7 @@
 
 vendor: https://codeastro.com/wedding-management-system-in-php-with-source-code/
 
-Vulnerability url: http://ip/Wedding-Management/admin/photos_edit.php?id=37
+Vulnerability url: http://ip/Wedding-Management/admin/users_edit.php?id=8
 
 Loophole location：The editing function of "User Management" module in the background management system-- > there is an arbitrary file upload vulnerability (RCE) in the picture upload point of "users_edit.php" file.
 
