@@ -1,4 +1,4 @@
-# WeddingManagement System v1.0 by codeastr.com has arbitrary code execution (RCE)
+# Wedding Management System v1.0 by codeastr.com has arbitrary code execution (RCE)
 
 vendor: https://codeastro.com/wedding-management-system-in-php-with-source-code/
 
