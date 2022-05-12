@@ -1,4 +1,4 @@
-# WeddingManagement System v1.0 by codeastr.com has SQL injection
+# Wedding Management System v1.0 by codeastr.com has SQL injection
 
 Author： k0xx
 
