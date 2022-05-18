@@ -1,6 +1,6 @@
 # Online Ordering System By janobe has SQL injection vulnerability
 
-Author： Lingtao Wang
+Author： k0xx
 
 vendor: https://www.sourcecodester.com/php/12978/online-ordering-system-phpmysqli.html
 
