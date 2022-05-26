@@ -1,4 +1,4 @@
-# Rescue Dispatch Management System v1.0 by oretnom23 has SQL injection
+# Rescue Dispatch Management System v1.0 by oretnom23 has Delete any file
 
 vendors: https://www.sourcecodester.com/php/15296/rescue-dispatch-management-system-phpoop-free-source-code.html
 
