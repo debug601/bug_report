@@ -1,4 +1,4 @@
-# Online Fire Reporting System v1.0  has SQL injection
+# Complete Online Job Search System v1.0 has SQL injection
 
 The password for the backend login account is: admin/admin
 
