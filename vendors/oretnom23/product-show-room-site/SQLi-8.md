@@ -24,7 +24,7 @@ Cookie: PHPSESSID=7g6mvmuq5m1o1cvqrhprll4jr1
 Connection: close
 ```
 
-When length (database ()) = 6, Content-Length: 33616
+When length (database ()) = 6, Content-Length: 780
 ![image](https://user-images.githubusercontent.com/54017627/171829131-88845078-4173-4b1f-9015-c7166a4482f9.png)
 
 ![image](https://user-images.githubusercontent.com/54017627/171829197-2f58b772-5f19-45cc-9d8c-b9dd3c03d2de.png)
