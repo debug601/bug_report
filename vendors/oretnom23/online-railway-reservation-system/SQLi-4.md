@@ -4,9 +4,9 @@ The password for the backend login account is: admin/admin123
 
 vendors: https://www.sourcecodester.com/php/15121/online-railway-reservation-system-phpoop-project-free-source-code.html
 
-Vulnerability File: /orrs/admin/schedules/manage_schedule.php?id
+Vulnerability File: /orrs/admin/schedules/manage_schedule.php?id=
 
-Vulnerability location: /orrs/admin/schedules/manage_schedule.php?id, id
+Vulnerability location: /orrs/admin/schedules/manage_schedule.php?id=, id
 
 Current database name: orrs_db,length is 7
 
