@@ -2,6 +2,8 @@
 
 vendors: https://www.sourcecodester.com/php/15328/simple-task-scheduler-system-phpoop-free-source-code.html
 
+The program is built using the xmapp-php5.6 version
+
 Vulnerability File: /tss/admin/?page=user/manage_user&id=
 
 Vulnerability location: /tss/admin/?page=user/manage_user&id=, id
