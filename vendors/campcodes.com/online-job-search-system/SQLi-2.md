@@ -1,5 +1,7 @@
 # Complete Online Job Search System v1.0 has SQL injection
 
+BUG_Author：朝阳
+
 The password for the backend login account is: admin/admin
 
 vendors: https://www.campcodes.com/projects/php/online-job-search-system-using-php-mysql-free-download/
