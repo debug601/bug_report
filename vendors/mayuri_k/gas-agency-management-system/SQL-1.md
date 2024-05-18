@@ -1,6 +1,6 @@
 # Gas Agency Management System v1.0 by mayuri_k has SQL injection
 
-BUG_Author:
+BUG_Author: 白万荣
 
 Login account: mayuri.infospace@gmail.com/admin
 
