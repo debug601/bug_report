@@ -30,4 +30,4 @@ Connection: close
 
 ```
 
-![image](https://github.com/debug601/bug_report/assets/54017627/93cd5d3f-e890-492a-af6e-edc861d777e6)
+![image](https://github.com/assets/54017627/93cd5d3f-e890-492a-af6e-edc861d777e6)
